@@ -53,7 +53,7 @@ A modern, responsive e-commerce website built with React, TypeScript, and Tailwi
    ```
 
 3. **Open your browser:**
-   Navigate to `https://venpattu-asyi.vercel.app/`
+   Navigate to ` http://localhost:5173/`
 
 ### Build for Production
 
