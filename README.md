@@ -149,9 +149,7 @@ const products: Product[] = [
 ## Browser Support
 
 - Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
+
 
 ## License
 
